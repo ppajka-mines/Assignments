@@ -1,4 +1,4 @@
-# sofc_model.py
+# sofc_model_HW2.py
 
 "========= IMPORT MODULES ========="
 import matplotlib.pyplot as plt
@@ -156,6 +156,6 @@ ax.legend(prop=font, frameon=False)
 fig.tight_layout()
 
 # Uncomment to save the figure, if you want. Name it however you please:
-plt.savefig('HW2_results.png', dpi=400)
+# plt.savefig('HW2_results.png', dpi=400)
 # Show figure:
 plt.show()
